@@ -29,8 +29,8 @@ Before you begin, ensure you have met the following requirements:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/IgorJMV/your-repo-name.git](https://github.com/IgorJMV/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/IgorJMV/miniblog_react.git](https://github.com/IgorJMV/miniblog_react.git)
+    cd miniblog_react
     ```
 
 2.  **Install dependencies:**
